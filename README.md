@@ -11,3 +11,5 @@ Las anotaciones, de la mano con la reflexión, constituyen una de las capacidade
 Los genéricos también forman su propia base en el lenguaje, permitiendo hacerlo dinámico a nivel subyacente. Las clases del estilo Collections, y en general muchas APIs del JDK de Java y Jakarta EE, se basan en la programación genérica.
 
 Es importante destacar que, si bien los servlets son una tecnología fundamental para el desarrollo web en Java, el ecosistema actual para aplicaciones empresariales y microservicios ha evolucionado significativamente. Si bien los servlets siguen siendo relevantes, frameworks como Spring Boot, Jakarta EE (con sus diversas especificaciones como CDI, JPA, etc.), y otros, construyen sobre o abstraen los servlets para ofrecer modelos de desarrollo más modernos y eficientes.
+
+2025
